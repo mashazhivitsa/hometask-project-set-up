@@ -1,0 +1,18 @@
+{
+  "name": "hometask-project-set-up",
+  "description": "FE Integration testing hometask",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.2.4",
+  "main": "index.js",
+  "author": "mzhyvitsa",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
